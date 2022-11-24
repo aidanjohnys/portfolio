@@ -19,6 +19,7 @@ const all_Header1 = [
 const all_Para1 = [
     "TEMP MOVE TEXT HERE",
     "TEMP MOVE TEXT HERE",
+
     "The term 'whistleblowing' is used when a worker reports wrongdoing. According to the government: 'As a whistleblower you're protected by law - you should not be treated unfairly or lose your job because you 'blow the whistle'."
     + " Valid complaints that constitute as whisteblowing are: "
     + "<ul><li>" +
@@ -27,7 +28,7 @@ const all_Para1 = [
     "Damage to the environment or people's health" +
     "</li><li>" +
     "Coverups" + "</li></ul>"
-    + "Some grievances such as bullying or discrimination are not covered under whistleblowing law and you will not be protected. <strong>Whistleblowing law is only applicable when your case is in the public interest</strong>",
+    + "Some grievances such as bullying or discrimination are not covered under whistleblowing law and you will not be protected. <strong>Whistleblowing law is only applicable when your case is in the public interest.</strong>",
 ,
 ]
 
