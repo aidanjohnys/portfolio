@@ -5,21 +5,30 @@ const all_Titles = [
 ];
 
 const all_Overviews = [
-    "",
-    "",
+    "TEMP MOVE TEXT HERE",
+    "TEMP MOVE TEXT HERE",
     "Whistle blowing is when an employee working at an organisation exposes their bad practises, particually when that information is in the public intrest, such as a company hurting the health of their customers or defrauding consumers.",
 ]
 
 const all_Header1 = [
-    "",
-    "",
-    "Why blow the whistle?",
+    "TEMP MOVE TEXT HERE",
+    "TEMP MOVE TEXT HERE",
+    "What counts as whistleblowing?",
 ]
 
 const all_Para1 = [
-    "",
-    "",
-    "",
+    "TEMP MOVE TEXT HERE",
+    "TEMP MOVE TEXT HERE",
+    "The term 'whistleblowing' is used when a worker reports wrongdoing. According to the government: 'As a whistleblower you're protected by law - you should not be treated unfairly or lose your job because you 'blow the whistle'."
+    + " Valid complaints that constitute as whisteblowing are: "
+    + "<ul><li>" +
+    "Criminal offences such as fraud" +
+    "</li><li>" +
+    "Damage to the environment or people's health" +
+    "</li><li>" +
+    "Coverups" + "</li></ul>"
+    + "Some grievances such as bullying or discrimination are not covered under whistleblowing law and you will not be protected. <strong>Whistleblowing law is only applicable when your case is in the public interest</strong>",
+,
 ]
 
 const all_Header2 = [
@@ -31,7 +40,12 @@ const all_Header2 = [
 const all_Para2 = [
     "",
     "",
-    "<ul><li>" + "Coffee" + "</li><li>" + "Tea" + "</li><li>" + "Milk" + "</li></ul>",
+    "<ul><li>" +
+    "Frances Haugen - Former Facebook employee who blew the whistle, believing that Facebook was misleading the public on 'how it handles issues such as climate change, misinformation and hate speech'. " +
+    "</li><li>" +
+    "Tyler Schultz - Former Theranos employee who exposed their fraudulent blood testing" +
+    "</li><li>" +
+    "Cher Scarlett - A software engineer who worked at organisation such as apple and blizzard who advocated for fair labour practices.'" + "</li></ul>",
 ]
 
 function update_Content(instance) {
