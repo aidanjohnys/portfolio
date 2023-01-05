@@ -65,4 +65,15 @@ function update_Content(instance) {
     document.getElementById("right_Para").innerHTML = right_Para;
 }
 
-update_Content(0);
+// Lets the section that has been linked get passed as an argument
+var parameters = location.search.substring(1).split("&");
+parameters = parameters[0].split("=");
+
+
+var temp_Index = 0;
+if (parameters[0] == "page") {
+    temp_Index = parameters[1];
+}
+
+update_Content(temp_Index);
+
